@@ -1,0 +1,184 @@
+/* font */
+.grape-nuts-regular {
+    font-family: "Grape Nuts", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+/* style */
+.bg-color-primary{
+    background-color: #176B87;
+}
+.bg-color-secondary{
+    background-color: #EEF5FF;
+}
+.text-light{
+  color: #EEF5FF;
+}
+.border-bottom-features{
+    border-bottom: 2px dashed #176B87;;
+}
+.featurette-divider {
+    margin: 5rem 0;
+}
+@media (min-width: 62em){
+.featurette-heading {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}}
+
+.featurette-heading {
+    letter-spacing: -.05rem;
+}
+.profile-img {
+    height: 100px;
+    border-radius: 50%;
+  }
+.icon{
+    margin: 1rem;
+}
+.iconclr{
+    color: #86B6F6;
+}
+.iconclr:hover{
+    color: #B4D4FF;
+}
+.buttonhvr{
+    background-color: #86B6F6;
+    border: 1px solid #176B87;
+}
+.buttonhvr:hover{
+    background-color: #B4D4FF;
+    border: 1px solid #86B6F6;
+    color: #EEF5FF;
+}
+.navclr{
+    color: #EEF5FF;
+}
+.navclr:hover{
+    color: #86B6F6;
+}
+a{
+    text-decoration: none;
+}
+.navlink{
+  color: #EEF5FF;
+}
+.navlink:hover{
+  color: #B4D4FF;
+}
+.descfooter{
+  color: #EEF5FF;
+}
