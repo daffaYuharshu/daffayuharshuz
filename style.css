@@ -164,6 +164,15 @@
     border: 1px solid #86B6F6;
     color: #EEF5FF;
 }
+.buttonhvr2{
+    background-color: #B4D4FF;
+    border: 1px solid #86B6F6;
+}
+.buttonhvr2:hover{
+    background-color: #86B6F6;
+    border: 1px solid #B4D4FF;
+    color: #EEF5FF;
+}
 .navclr{
     color: #EEF5FF;
 }
